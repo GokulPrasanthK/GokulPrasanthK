@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I am Gokul Prasanth 
+Selenium | Core Java | Functional Testing | API Testing | Postman | TestNG | Accessibility Testing | Defect Management | Agile | Testcases & TestPlan |
 
-<!--
-**GokulPrasanthK/GokulPrasanthK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detail-oriented and highly skilled Test Engineer with 3+ years of experience in both Automation and Manual testing. Proven track record of developing test strategies, test scenarios, test plans, automated test scripts, design and execution of Test cases, Defect management and ensuring high-quality software deliverables.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Testing Types - Automation testing, Functional testing, Mobile testing, API testing, System testing, System Integration testing, User Acceptance testing, Smoke testing, Sanity testing, Regression testing, Cross browser testing, Accessibility testing.
+
+• Automation tools - Selenium Web driver, Postman, Rest Assured
+
+• Programming Language - Core Java, SQL
+
+• Framework - TestNG, JUnit, POM, BDD using Cucumber, Data driven testing.
+
+• Domain Knowledge - Banking
+
+• Accessibility Testing tools - NVDA Screen reader, CCA(Color Contrast Analyzer), Magnifier.
+
+• Cloud Based Testing tool - Sauce Labs, Perfecto
+
+• Project /Bug/Test Management tools - Jira, Rally, qtest, Confluence, GitHub 
+
+• CI/CD tools - Jenkins
+
+• Other Skills - Agile Methodologies, Test cases,Test Plan, SDLC, STLC, Defect Management, Bug life Cycle
+
+• Other tools - Putty, WinScp, Control- M, Paysim, VTS
+
+
